@@ -42,19 +42,19 @@ El programa se conecta a **ExchangeRate-API** para obtener tasas de cambio actua
 1. <p align="center"><i>Al iniciar, se despliega el menú de opciones. Debes digitalizar el número de la conversión que necesitas.</i></p>
 
 <p align="center">
-  <img src="assets/tutorial1.JPG" alt="Menú Principal">
+  <img src="assets/tutorial1.jpg" alt="Menú Principal">
 </p>
 
 2. <p align="center"><i>Luego, el sistema solicitará que ingreses el monto que deseas convertir.</i></p>
 
 <p align="center">
-  <img src="assets/tutorial2.JPG" alt="Ingreso de Valor">
+  <img src="assets/tutorial2.jpg" alt="Ingreso de Valor">
 </p>
 
 3. <p align="center"><i>Finalmente, obtendrás el resultado formateado con dos decimales, indicando las siglas de las monedas involucradas.</i></p>
 
 <p align="center">
-  <img src="assets/tutorial3.JPG" alt="Resultado Final">
+  <img src="assets/tutorial3.jpg" alt="Resultado Final">
 </p>
 
 ---
